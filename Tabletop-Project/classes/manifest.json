@@ -1,0 +1,12 @@
+{
+    "files":
+    [
+        "fighter",
+        "rogue",
+        "wizard",
+        "monk",
+        "paladin",
+        "ranger",
+        "sorcerer"
+    ]
+}

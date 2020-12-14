@@ -1,0 +1,26 @@
+{
+    "race": "Dragonborn",
+    "stats": {
+        "ability_scores": [
+            "Str +2",
+            " Cha +1"
+        ],
+        "size": "Medium",
+        "speed": "30 ft."
+    },
+    "attributes": {
+        "dragonic-ancestry": {
+            "name": "Draconic Ancestry",
+            "description": "You have draconic ancestry. Your breath weapon and damage resistances are determined by your draconic type."
+        },
+        "breath-weapon": {
+            "name": "Breath Weapon",
+            "description": "You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation."
+        },
+        "damage-resistance": {
+            "name": "Damage Resistance",
+            "description": "You have resistance to the damage type associated with your draconic ancestry."
+        }
+    },
+    "image_url": "https://5e.tools/img/races/Dragonborn.png?v=1.99.1"
+}

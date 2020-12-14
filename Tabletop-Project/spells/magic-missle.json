@@ -1,0 +1,24 @@
+{
+    "spell": "Magic Missile",
+    "level": "1",
+    "properties": [
+        {
+            "name": "Casting Time",
+            "value": "1 action"
+        },
+        {
+            "name": "Range",
+            "value": "120 feet"
+        },
+        {
+            "name": "Components",
+            "value": "Verbal, Somatic"
+        },
+        {
+            "name": "Duration",
+            "value": "Instantaneous"
+        }
+    ],
+    "description": "You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 plus 1 force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.",
+    "image_url": "https://i2.wp.com/www.wizardslaboratory.com/wp-content/uploads/2018/03/img_0252.jpg?resize=768%2C958&ssl=1"
+}

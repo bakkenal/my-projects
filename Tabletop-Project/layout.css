@@ -1,0 +1,96 @@
+*{
+    background-color: grey;
+}
+
+header{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+text{
+  font-weight: bold;
+}
+
+text, race-box, race-info, class-box, class-info, weapon-box, weapon-info, spell-box, spell-info{
+  display: flex;
+  flex-direction: column;
+
+}
+
+body {
+    overflow: hidden;
+    margin: 0px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 10% auto;
+    grid-template-areas:
+       "header text"
+       "race-box race-info";
+    height: 100vh;
+    padding-top: 20px;
+    padding-left: 25px;
+}
+
+body button{
+  padding: 5px;
+  margin-bottom:5px;
+  margin-top:5px;
+}
+
+p {
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+
+b {
+  text-decoration-line: underline;
+}
+
+race-info #info{
+  line-height: 1;
+}
+
+race-info{
+  padding-right: 20px;
+}
+
+race-box{
+  padding-right: 20px;
+}
+
+class-info #info{
+  line-height: 1;
+}
+
+class-info{
+  padding-right: 20px;
+}
+
+class-box{
+  padding-right: 20px;
+}
+
+weapon-info #info{
+  line-height: 1;
+}
+
+weapon-info{
+  padding-right: 20px;
+}
+
+weapon-box{
+  padding-right: 20px;
+}
+
+spell-info #info{
+  line-height: 1;
+}
+
+spell-info{
+  padding-right: 20px;
+}
+
+spell-box{
+  padding-right: 20px;
+}

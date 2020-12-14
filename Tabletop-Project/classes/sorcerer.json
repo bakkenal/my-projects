@@ -1,0 +1,55 @@
+{
+    "class": "Sorcerer",
+    "hp": "6",
+    "proficiencies": {
+        "Armor": [
+        ],
+        "Weapons": [
+            "daggers",
+            " darts",
+            " slings",
+            " quarterstaffs",
+            " light crossbows"
+        ],
+        "Tools": [],
+        "Saving-throws": [
+            "Charisma",
+            " Constitution"
+        ],
+        "Skills": [
+            "Arcana",
+            " Intimidation"
+        ]
+    },
+    "equip-options": [
+      "Longsword",
+      "Heavy crossbow",
+      "Quarterstaff"
+    ],
+    "spells": {
+        "Cantrip": "2",
+        "1st-level": "2"
+    },
+    "features": {
+        "spellcasting": {
+            "name": "Spellcasting",
+            "description": "An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane magic. This font of magic, whatever its origin, fuels your spells.",
+            "options": {
+                "cantrips": {
+                    "name": "Cantrips",
+                    "description": "At 1st level, you know four cantrips of your choice from the sorcerer spell list. You learn an additional sorcerer cantrip of your choice at 4th level and another at 10th level."
+                },
+                "spellcasting-focus": {
+                    "name": "Spellcasting Focus",
+                    "description": "You can use an arcane focus as a spellcasting focus for your sorcerer spells."
+                }
+            }
+        },
+        "sorcerous-origin": {
+            "name": "Sorcerous Origin",
+            "description": "Choose a sorcerous origin, which describes the source of your innate magical power, from the list of available origins. Your choice grants you features when you choose it at 1st level and again at 6th, 14th, and 18th level.",
+            "options": {}
+        }
+    },
+    "image_url": "https://www.d20pfsrd.com/wp-content/uploads/sites/12/2017/03/sorceress_by_yamaorce-db2aktf.jpg"
+}

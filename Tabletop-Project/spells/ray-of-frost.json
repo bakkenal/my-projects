@@ -1,0 +1,24 @@
+{
+    "spell": "Ray of Frost",
+    "level": "0",
+    "properties": [
+        {
+            "name": "Casting Time",
+            "value": "1 action"
+        },
+        {
+            "name": "Range",
+            "value": "60 feet"
+        },
+        {
+            "name": "Components",
+            "value": "Verbal, Somatic"
+        },
+        {
+            "name": "Duration",
+            "value": "Instantaneous"
+        }
+    ],
+    "description": "A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 cold damage, and its speed is reduced by 10 feet until the start of your next turn.",
+    "image_url": "https://vignette.wikia.nocookie.net/the-sapphirian-empire/images/6/66/Ocularan.jpg/revision/latest/scale-to-width-down/1000?cb=20180507053022"
+}

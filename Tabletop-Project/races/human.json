@@ -1,0 +1,18 @@
+{
+    "race": "Human",
+    "stats": {
+        "ability_scores": [
+            "Str +1",
+            " Dex +1",
+            " Con +1",
+            " Int +1",
+            " Wis +1",
+            " Cha +1"
+        ],
+        "size": "Medium",
+        "speed": "30 ft."
+    },
+    "attributes": {
+    },
+    "image_url": "https://5e.tools/img/races/Human.png?v=1.99.1"
+}

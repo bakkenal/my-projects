@@ -1,0 +1,52 @@
+{
+    "class": "Ranger",
+    "hp": "10",
+    "proficiencies": {
+        "Armor": [
+          "light armor",
+          " medium armor",
+          " shields"
+        ],
+        "Weapons": [
+            "simple weapons",
+            " martial weapons"
+        ],
+        "Tools": [],
+        "Saving-throws": [
+            "Strength",
+            " Dexterity"
+        ],
+        "Skills": [
+            "Animal Handling",
+            " Athletics"
+        ]
+    },
+    "equip-options": [
+        "Longsword",
+        "Heavy crossbow",
+        "Quarterstaff"
+    ],
+    "spells": {},
+    "features": {
+        "fighting-style": {
+            "name": "Fighting Style",
+            "description": "At 2nd level, you adopt a particular style of fighting as your specialty. You can't take a Fighting Style option more than once, even if you later get to choose again.",
+            "options": {
+                "archery": {
+                    "name": "Archery",
+                    "description": "You gain a +2 bonus to attack rolls you make with ranged weapons."
+                },
+                "defense": {
+                    "name": "Defense",
+                    "description": "While you are wearing armor, you gain a +1 bonus to AC."
+                }
+            }
+        },
+        "natural-explorer": {
+            "name": "Natural Explorer",
+            "description": "You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, swamp, or the Underdark. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you're proficient in.",
+            "options": {}
+        }
+    },
+        "image_url": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/367/420/618/636272702826438096.png"
+    }

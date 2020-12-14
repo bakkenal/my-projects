@@ -1,0 +1,30 @@
+{
+    "race": "Dwarf",
+    "stats": {
+        "ability_scores": [
+            "Con +2",
+            " Wis +1"
+        ],
+        "size": "Medium",
+        "speed": "25 ft."
+    },
+    "attributes": {
+        "darkvision": {
+            "name": "Darkvision",
+            "description": "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light."
+        },
+        "dwarven-toughness": {
+            "name": "Dwarven Toughness",
+            "description": "Your hit point maximum increases by 1, and it increases by 1 every time you gain a level."
+        },
+        "dwarven-resilience": {
+            "name": "Dwarven Resilience",
+            "description": "You have advantage on saving throws against poison and you have resistance against poison damage."
+        },
+        "stonecunning": {
+            "name": "Stonecunning",
+            "description": "Whenever you make an Intelligence (History) check related to the origin of stone work, you are considered proficient in the history skill and add double your proficiency bonus to the check instead of your normal proficiency bonus."
+        }
+    },
+    "image_url": "https://5e.tools/img/races/Dwarf.png?v=1.99.1"
+}

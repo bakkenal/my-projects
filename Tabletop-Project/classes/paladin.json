@@ -1,0 +1,43 @@
+{
+    "class": "Paladin",
+    "hp": "10",
+    "proficiencies": {
+        "Armor": [
+            "light armor",
+            " medium armor",
+            " heavy armor"
+        ],
+        "Weapons": [
+            "simple weapons",
+            " martial weapons"
+        ],
+        "Tools": [],
+        "Saving-throws": [
+            "Wisdom",
+            " Charisma"
+        ],
+        "Skills": [
+            "Athletics",
+            " Intimidation"
+        ]
+    },
+    "equip-options": [
+        "Longsword",
+        "Quarterstaff",
+        "Crossbow"
+    ],
+    "spells": {},
+    "features": {
+        "divine-sense": {
+            "name": "Divine Sense",
+            "description": "The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music upon your ears.",
+            "options": {}
+        },
+        "lay-on-hands": {
+            "name": "Lay on Hands",
+            "description": "Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest.",
+            "options": {}
+        }
+    },
+    "image_url": "https://qph.fs.quoracdn.net/main-qimg-06eb53292193370bc32825e99c001d19"
+}

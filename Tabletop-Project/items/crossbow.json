@@ -1,0 +1,27 @@
+{
+    "item": "Heavy Crossbow",
+    "damage": "1d10",
+    "properties": [
+        {
+            "name": "Range",
+            "value": "100 ft"
+        },
+        {
+            "name": "Ammunition",
+            "value": "You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack."
+        },
+        {
+            "name": "Heavy",
+            "value": "Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively."
+        },
+        {
+            "name": "Loading",
+            "value": "Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make."
+        },
+        {
+            "name": "Two-Handed",
+            "value": "This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
+        }
+    ],
+    "image_url": "https://i.stack.imgur.com/0EadT.jpg"
+}

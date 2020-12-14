@@ -1,0 +1,24 @@
+{
+    "spell": "Prestidigitation",
+    "level": "0",
+    "properties": [
+        {
+            "name": "Casting Time",
+            "value": "1 action"
+        },
+        {
+            "name": "Range",
+            "value": "10 feet"
+        },
+        {
+            "name": "Components",
+            "value": "Verbal, Somatic"
+        },
+        {
+            "name": "Duration",
+            "value": "1 hour"
+        }
+    ],
+    "description": "This spell is a minor magical trick that novice spellcasters use for practice. If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.",
+    "image_url": "https://lh3.googleusercontent.com/proxy/-i6bmmRKwrL4dYdidTNz_4SbP6hB4GMa4Gl_4HQ_wirJB5tT9Ut9nKxD2AmhY1iu3u09eIUkK309Ow3XY2UeSX0X6xeCol5t5Iiv6nvGO7hhXz8mK8Cc-z49-yipEPqFryZgwfaRNxzMiGHvm-O3sgHCHXfBKM3eoKTMqpY"
+}

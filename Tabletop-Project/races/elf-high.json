@@ -1,0 +1,31 @@
+{
+    "race": "Elf (High)",
+    "image_url": "https://5e.tools/img/races/Elf.png?v=1.99.1",
+    "test": "test value",
+    "stats": {
+        "ability_scores": [
+            "Dex +2",
+            " Int +1"
+        ],
+        "size": "Medium",
+        "speed": "30 ft."
+    },
+    "attributes": {
+        "darkvision": {
+            "name": "Darkvision",
+            "description": "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light."
+        },
+        "keensenses": {
+            "name": "Keen Senses",
+            "description": "You have proficiency in the Perception skill."
+        },
+        "elfweapons": {
+            "name": "Elf Weapon Training",
+            "description": "You have proficiency with the longsword, shortsword, shortbow, and longbow."
+        },
+        "cantrip": {
+            "name": "Cantrip",
+            "description": "You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it."
+        }
+    }
+}

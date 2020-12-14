@@ -1,0 +1,26 @@
+{
+    "race": "Gnome (Forest)",
+    "image_url": "https://5e.tools/img/races/Gnome.png?v=1.99.1",
+    "stats": {
+        "ability_scores": [
+            "Int +2",
+            " Dex +1"
+        ],
+        "size": "Small",
+        "speed": "25 ft."
+    },
+    "attributes": {
+        "darkvision": {
+            "name": "Darkvision",
+            "description": "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light."
+        },
+        "gnome-cunning": {
+            "name": "Gnome Cunning",
+            "description": "You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic."
+        },
+        "languages": {
+            "name": "Languages",
+            "description": "You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world."
+        }
+    }
+}

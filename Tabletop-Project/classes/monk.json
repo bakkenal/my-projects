@@ -1,0 +1,39 @@
+{
+    "class": "Monk",
+    "hp": "8",
+    "proficiencies": {
+        "Armor": [],
+        "Weapons": [
+            "simple weapons",
+            " shortswords"
+        ],
+        "Tools": [
+            "artisan's tools"
+        ],
+        "Saving-throws": [
+            "Strength",
+            " Dexterity"
+        ],
+        "Skills": [
+            "Acrobatics",
+            " Religion"
+        ]
+    },
+    "equip-options": [
+        "Quarterstaff"
+    ],
+    "spells": {},
+    "features": {
+        "unarmored-defense": {
+            "name": "Unarmored Defense",
+            "description": "Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 plus your Dexterity modifier plus your Wisdom modifier.",
+            "options": {}
+        },
+        "martial-arts": {
+            "name": "Martial Arts",
+            "description": "You know kung fu.",
+            "options": {}
+        }
+    },
+    "image_url": "https://oldschoolroleplaying.com/wp-content/uploads/2019/03/monk-one.jpg"
+}

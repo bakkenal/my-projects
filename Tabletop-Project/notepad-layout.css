@@ -1,0 +1,55 @@
+*{
+    background-color: grey;
+}
+
+text{
+  font-weight: bold;
+  grid-area: text;
+}
+
+header{
+  grid-area: header;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+text header{
+  font-family: 'Open Sans',;
+}
+
+body {
+    overflow: hidden;
+    margin: 0px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 10% auto;
+    grid-template-areas:
+       "text header"
+       "info info";
+    height: 100vh;
+    padding-top: 20px;
+    padding-left: 25px;
+}
+
+.flex-container {
+  grid-area: info;
+  display: flex;
+  flex-direction: row;
+}
+
+#race{
+  border: 1px solid black;
+}
+
+#class{
+  border: 1px solid black;
+}
+
+#weapon{
+  border: 1px solid black;
+}
+
+#spell{
+  border: 1px solid black;
+}

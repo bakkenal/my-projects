@@ -1,0 +1,53 @@
+{
+    "class": "Rogue",
+    "hp": "10",
+    "proficiencies": {
+        "Armor": [
+            "light armor"
+        ],
+        "Weapons": [
+            "simple weapons",
+            " hand crossbows",
+            " longswords",
+            " rapiers",
+            " shortswords"
+        ],
+        "Tools": [
+            "thieve's tools"
+        ],
+        "Saving-throws": [
+            "Dexterity",
+            " Intelligence"
+        ],
+        "Skills": [
+            "Acrobatics",
+            " Deception",
+            " Perception",
+            " Stealth"
+        ]
+    },
+    "equip-options": [
+        "Crossbow",
+        "Longsword",
+        "Quarterstaff"
+    ],
+    "spells": {},
+    "features": {
+        "expertise": {
+            "name": "Expertise",
+            "description": "Choose two of your skills. You gain a +2 bonus for any ability you make that uses either of the chosen skills.",
+            "options": {}
+        },
+        "sneak-attack": {
+            "name": "Sneak Attack",
+            "description": "You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if an ally is within 5 feet of the target.The attack must use a ranged weapon.",
+            "options": {}
+        },
+        "thieves-cant": {
+            "name": "Thieve's Cant",
+            "description": "During your rogue training you learned thieves' cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves' cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.",
+            "options": {}
+        }
+    },
+    "image_url": "https://d20pfsrd.opengamingnetwork.com/wp-content/uploads/sites/12/2017/01/rogue__comm_by_yamaorce-d88oizc-320-2.png"
+}

@@ -1,0 +1,26 @@
+{
+    "race": "Tiefling",
+    "stats": {
+        "ability_scores": [
+            "Cha +2",
+            " Int +1"
+        ],
+        "size": "Medium",
+        "speed": "30 ft."
+    },
+    "attributes": {
+        "darkvision": {
+            "name": "Darkvision",
+            "description": "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light."
+        },
+        "hellish-resistance": {
+            "name": "Hellish Resistance",
+            "description": "You have resistance to fire damage."
+        },
+        "infernal-legacy": {
+            "name": "Infernal Legacy",
+            "description": "You know the thaumaturgy cantrip. Once you reach 3rd level, you can cast the hellish rebuke spell as a 2nd-level spell; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells."
+        }
+    },
+    "image_url": "https://5e.tools/img/races/Tiefling.png?v=1.99.1"
+}

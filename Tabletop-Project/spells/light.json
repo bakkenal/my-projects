@@ -1,0 +1,24 @@
+{
+    "spell": "Light",
+    "level": "0",
+    "properties": [
+        {
+            "name": "Casting Time",
+            "value": "1 action"
+        },
+        {
+            "name": "Range",
+            "value": "Touch"
+        },
+        {
+            "name": "Components",
+            "value": "Verbal, Material"
+        },
+        {
+            "name": "Duration",
+            "value": "1 hour"
+        }
+    ],
+    "description": "You touch one object that is no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an action.",
+    "image_url": "https://i.imgur.com/tCJ5eot.jpg"
+}

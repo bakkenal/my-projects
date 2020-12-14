@@ -1,0 +1,53 @@
+{
+    "class": "Fighter",
+    "hp": "13",
+    "proficiencies": {
+        "Armor": [
+            "light armor",
+            " medium armor",
+            " heavy armor",
+            " shields"
+        ],
+        "Weapons": [
+            "simple weapons",
+            " martial weapons"
+        ],
+        "Tools": [],
+        "Saving-throws": [
+            "Strength",
+            " Constitution"
+        ],
+        "Skills": [
+            "Athletics",
+            " Intimidation"
+        ]
+    },
+    "equip-options": [
+        "Crossbow",
+        "Longsword",
+        "Quarterstaff"
+    ],
+    "spells": {},
+    "features": {
+        "fighting-style": {
+            "name": "Fighting Style",
+            "description": "You adopt a particular style of fighting as your specialty.",
+            "options": {
+                "archery": {
+                    "name": "Archery",
+                    "description": "You gain a +2 bonus to attack rolls you make with ranged weapons."
+                },
+                "dueling": {
+                    "name": "Dueling",
+                    "description": "When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon."
+                }
+            }
+        },
+        "second-wind": {
+            "name": "Second Wind",
+            "description": "You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 plus your fighter level. Once you use this feature, you must finish a short or long rest before you can use it again.",
+            "options": {}
+        }
+    },
+    "image_url": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/359/420/618/636272697874197438.png"
+}

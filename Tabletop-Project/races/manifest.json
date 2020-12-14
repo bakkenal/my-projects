@@ -1,0 +1,12 @@
+{
+    "files":
+    [
+        "elf-high",
+        "dwarf",
+        "human",
+        "dragonborn",
+        "tiefling",
+        "half-elf",
+        "forest-gnome"
+    ]
+}

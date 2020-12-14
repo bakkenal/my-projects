@@ -1,0 +1,9 @@
+Many people want to get into tabletop games, but most of them are difficult to learn. One of the most well-known tabletop games, Dungeons & Dragons, has scared off potential players for years, due mainly to its large, multiple rulebooks and their confusing layout and design. Tabletop games in their current state are not welcoming to players of all skill levels and this is severely limiting the accessibility of the medium.
+
+One current solution to making tabletop games easier to learn is 5e.tools. This website compiles important information from Dungeons & Dragons into clear and concise categories. Information is granted at the click of the button, and the user can only see the information that is most pertinent to their goals. We chose this concept as a starting point, making information both easy to find and readily accessible. One effort we chose to build upon was the storing of information the player would like to refer back to. Another effort we wanted to improve was visual presentation; 5e.tools is text-heavy with little to no pictures throughout.
+
+We managed to create an application that is capable of displaying information found in Dungeons & Dragons Fifth Edition and copy it to a single notepad page for the user’s convenience. The app also allows for the creation of multiple user accounts on one computer.
+If we were to continue this project, our team would focus on encoding more information into the application, including pages for other features of the full Dungeons & Dragons game such as feats, items, and a bestiary. We would also like to expand the program to provide support for other tabletop games such as Call of Cthulhu.
+
+#### Instructions
+Tabletop Game Assistant is compatible with any browser and OS, but for best results, please use Google Chrome on a Windows or Mac device. Start from signup.html to start

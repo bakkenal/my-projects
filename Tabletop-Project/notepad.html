@@ -1,0 +1,47 @@
+<html>
+  <head>
+        <title>Tabletop Game Assistant</title>
+    <!-- <link rel="stylesheet" href="layout.css">
+    <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Open-Sans"> -->
+
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link type="text/css" rel="stylesheet" href="css/materialize.css"  media="screen,projection"/>
+
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  </head>
+  <body class="grey darken-3">
+    <div class = "row cyan darken-4 z-depth-0 valign-wrapper">
+      <h3> Tabletop Game Assistant </h3>
+      <div class="chip col l1">
+        <a id = "username" href = "profile.html"></a>
+        <i class="close material-icons" onclick = "signOut()">close</i>
+      </div>
+    </div>
+    <div class = "row cyan darken-4 z-depth-1 valign-wrapper">
+      <div class = "col l4 valign blue-grey-text text-lighten-4">
+        <h3>Notepad</h3>
+      </div>
+      <div class="col l3"></div>
+      <h5 class="col l4 valign">
+        <a href="races.html" class="breadcrumb light-blue-text text-accent-2">Races</a>
+        <a href="classes.html" class="breadcrumb light-blue-text text-accent-2">Classes</a>
+        <a href="weapons.html" class="breadcrumb light-blue-text text-accent-2">Weapons</a>
+        <a href="spells.html" class="breadcrumb light-blue-text text-accent-2">Spells</a>
+        <a href="notepad.html" class="breadcrumb light-blue-text text-accent-2">Notepad</a>
+      </h5>
+    </div>
+    <div class="row">
+      <div id="race" class="col l3"></div>
+      <div id="class" class="col l3"></div>
+      <div id="weapon" class="col l3"></div>
+      <div id="spell" class="col l3"></div>
+    </div>
+  </body>
+<script type="text/javascript" src="js/notepad.js"></script>
+<script type="text/javascript" src="js/profileButton.js"></script>
+<script type="text/javascript" src="js/user.js"></script>
+</html>
